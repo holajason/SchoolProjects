@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jason\desktop\cis350p4\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\cis350p4\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  CIS350P4.vcxproj -> C:\Users\Jason\Desktop\CIS350P4\Debug\CIS350P4.exe
+  CIS350P4.vcxproj -> C:\Users\Jason\Desktop\CIS350P4\Debug\CIS350P4.pdb (Full PDB)
