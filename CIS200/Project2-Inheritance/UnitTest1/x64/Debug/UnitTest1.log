@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(33): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(53): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(71): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(165): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(186): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(242): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(259): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(311): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\UnitTest1\UnitTest1.cpp(329): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+  UnitTest1.vcxproj -> C:\Users\Jason\Documents\GitHub\CIS200-Summer2019-holajason\Project2-Inheritance\x64\Debug\UnitTest1.dll
