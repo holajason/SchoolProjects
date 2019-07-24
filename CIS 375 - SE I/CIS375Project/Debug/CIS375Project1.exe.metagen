@@ -1,0 +1,101 @@
+  CIS375Project1.apptDate.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.clientInfo.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.Confirmation.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.ConfirmExit.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.ExitProgram.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.jobApproval.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.jobTask.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.login.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.mainMenu.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.Notification.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.payment.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.report.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.saveChanges.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.sendSurvey.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.survey.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.TechnicianInfo.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.timeBlock.resources - Embedded, ContainedInManifestFile, 
+  CIS375Project1.waitingList.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly CIS375Project1, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CIS375Project1.apptDate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.ConfirmExit: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.saveChanges: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.clientInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String companyNo : Public
+    System.String clientName : Public
+    System.String companyNo2 : Public
+    System.String clientName2 : Public
+Class CIS375Project1.Confirmation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.ExitProgram: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.jobApproval: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.jobTask: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.timeBlock: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.waitingList: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.payment: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.report: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.sendSurvey: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.survey: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.Notification: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.TechnicianInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.mainMenu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class CIS375Project1.login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String staff : Public
+    System.String staff1 : Public
+    System.String staff2 : Public
+    System.String staff3 : Public
+    System.String staff4 : Public
+    System.String staff5 : Public
