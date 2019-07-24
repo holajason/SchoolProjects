@@ -1,0 +1,6 @@
+﻿  p1.cpp
+  Source1.cpp
+  Generating Code...
+c:\users\jason\desktop\cis400\p1.cpp(138): warning C4700: uninitialized local variable 'val' used
+  CIS400.vcxproj -> C:\Users\Jason\Desktop\CIS400\Debug\CIS400.exe
+  CIS400.vcxproj -> C:\Users\Jason\Desktop\CIS400\Debug\CIS400.pdb (Full PDB)
