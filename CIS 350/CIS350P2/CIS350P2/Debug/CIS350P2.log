@@ -1,0 +1,7 @@
+﻿  ClassRelations.cpp
+c:\users\jason\desktop\cis350p2\cis350p2\classrelations.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\cis350p2\cis350p2\classrelations.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\cis350p2\cis350p2\classrelations.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\cis350p2\cis350p2\classrelations.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  CIS350P2.vcxproj -> C:\Users\Jason\Desktop\CIS350P2\Debug\CIS350P2.exe
+  CIS350P2.vcxproj -> C:\Users\Jason\Desktop\CIS350P2\Debug\CIS350P2.pdb (Full PDB)
