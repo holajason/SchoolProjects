@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include <time.h>
 using namespace std;
 
 class Powerball {
@@ -14,6 +15,7 @@ public:
 		whiteBall[2] = 0;
 		whiteBall[3] = 0;
 		whiteBall[4] = 0;
+		redBall = 0;
 		for (int index = 0; index < 5; index++) {
 			int randomNumber = rand() % 69 + 1;
 			while (randomNumber == whiteBall[0] || randomNumber == whiteBall[1] ||
@@ -50,28 +52,28 @@ public:
 		for (int drawingWhiteBall = 0; drawingWhiteBall < 5; drawingWhiteBall++) {
 			for (int ticketWhiteBall = 0; ticketWhiteBall < 5; ticketWhiteBall++) {
 				if (whiteBall[drawingWhiteBall] == winningTicket.whiteBall[ticketWhiteBall]) {
-					matchedRedBall++;
+					matchedWhiteBall++;
 				}
 
 			}
 		}
 
-		if (matchedWhiteBall == 5 & redBall) {
+		if (matchedWhiteBall == 5 && matchedRedBall) {
 			return 1600000000;
 		}
 		else if (matchedWhiteBall == 5) {
 			return 1000000;
 		}
-		else if (matchedWhiteBall == 4 & redBall) {
+		else if (matchedWhiteBall == 4 && matchedRedBall) {
 			return 50000;
 		}
-		else if (matchedWhiteBall == 4 || (matchedWhiteBall == 3& redBall)) {
+		else if (matchedWhiteBall == 4 || (matchedWhiteBall == 3 && matchedRedBall)) {
 			return 100;
 		}
-		else if (matchedWhiteBall == 3 || (matchedWhiteBall == 2 & redBall)) {
+		else if (matchedWhiteBall == 3 || (matchedWhiteBall == 2 && matchedRedBall)) {
 			return 7;
 		}
-		else if (redBall) {
+		else if (matchedRedBall) {
 			return 4;
 		}
 		else {
